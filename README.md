@@ -1,3 +1,3 @@
 # PetrouchkaMoise-PoetryRepo
-PetrouchkaMoise is purple
-today is blue
+PetrouchkaMoise is red
+today is sapphire
