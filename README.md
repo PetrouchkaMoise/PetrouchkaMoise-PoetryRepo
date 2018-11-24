@@ -15,8 +15,8 @@ In my journey of mourning, as a mother and a fellow creative, many people have s
 In the poem “Have you Heard my Special K” there are three players – Kaiya as the source, me as the narrator and the connector, and the audience as the receptor.  Each have actions and reactions of what knowing what Kaiya has created and manifested.
 
 ### The Cast
-The Source | S - Action | The Connector | C - Action | The Receptor | R - Action
----------- | ---------- | ------------- | ---------- | ------------ | -----------
+Source | (S)Action | Connector | (C)Action | Receptor | (R)Action
+------ | --------- | --------- | --------- | -------- | -----------
 her fist balled up | She came on a Thursday morning  | My Special K | I won her | Your grandma's pancake | you Seen
 her arms | She knew She | My Melanin Rich Onyx | I know | your soul | you can't miss her
 
