@@ -1,5 +1,6 @@
 # Petrouchka Moise - "Have You Heard my Special K" Repository
 ---
+![photos of us](https://github.com/digital-culture-seminar/PetrouchkaMoise-PoetryRepo/blob/master/Terrible%20twos.png)
 
 ## Artist Statement
 
