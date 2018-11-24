@@ -1,4 +1,4 @@
-#Journey of Petrouchka
+# Journey of Petrouchka
 ---
 ## Artist Statement
 ---
