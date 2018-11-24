@@ -1,4 +1,4 @@
-# Journey of Petrouchka
+# Petrouchka Moise - "Have You Heard my Special K" Repository
 ---
 
 ## Artist Statement
@@ -12,7 +12,14 @@ Life is not a one size fits all, and it is hurtful to be called “leftovers”,
 
 In my journey of mourning, as a mother and a fellow creative, many people have shared with me how they have been “Kaiya’d”.  The loss challenged me to keep the words and memory of my daughter relevant to people who would yet to discover her. Now the journey is continued by taking the blueprint of her poetry and cadence to find the jewels that will continue to encourage us to love ourselves and "style from within".
 
-In the poem “Have you Heard my Special K” there are three players – Kaiya as the source, me as the narrator the connector, and the audience as the receptor.  Each have actions and reactions of what knowing what Kaiya has created and manifested.
+In the poem “Have you Heard my Special K” there are three players – Kaiya as the source, me as the narrator and the connector, and the audience as the receptor.  Each have actions and reactions of what knowing what Kaiya has created and manifested.
+
+### The Cast
+The Source | S - Primary Action | S - Action | The Connector | C - Action | The Receptor | R - Action
+---------- | ------------------ | ---------- | ------------- | ---------- | ------------ | -----------
+her fist balled up | She came on a Thursday morning | raised her arms like the branches of an oak tree | My Special K | I won her | Your grandma's pancake | you Seen
+her arms | She knew She | welcomed you into her hear | My Melanin Rich Onyx | I know | your soul | you can't miss her
+
 
 ### Poem Waveform
 ![Poem Waveform](https://github.com/digital-culture-seminar/PetrouchkaMoise-PoetryRepo/blob/master/special_k_waveform%20clean.png)
