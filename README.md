@@ -14,11 +14,18 @@ In my journey of mourning, as a mother and a fellow creative, many people have s
 
 In the poem “Have you Heard my Special K” there are three players – Kaiya as the source, me as the narrator and the connector, and the audience as the receptor.  Each have actions and reactions of what knowing what Kaiya has created and manifested.
 
-### The Cast
+### The Cast & Script Sample
 Source | (S)Action | Connector | (C)Action | Receptor | (R)Action
 ------ | --------- | --------- | --------- | -------- | -----------
-her fist balled up | She came on a Thursday morning  | My Special K | I won her | Your grandma's pancake | you Seen
-her arms | She knew She | My Melanin Rich Onyx | I know | your soul | you can't miss her
+her fist balled up | She came on a Thursday morning  | My Special K | I won her | Your grandma's pancake | you seen
+her arms | She knew She | My Melanin Rich Onyx | I know | your soul | you can't miss her  
+her heart | She Stepped into womanhood |my tree in the land of bushes | I had | your own consciousness |you ever rocked
+her blue hair | She birthed a renaissance thru words | My Peaches | I was her | our existence | you ever heard
+her sway | She wanted you | my training | (I was) mimmicking her | your neck | you can hear her
+her systematic evolution | She needed you to push | my rote behavior | I wore | your butt cheeks | you ever loved
+her syncopated rythms | She gave was all for you | my insecurities | I loved | your existence | you thought you where hers
+her Maman Moan | She taught me to leave | my inadequacies | I shared her | your ... | (you) wanting to believe
+her Bae, Boo, or her Boy| She wanted a love that conjugated | my shoestring shackles | I won you | your ...  | you want to borrow
 
 
 ### Poem Waveform
