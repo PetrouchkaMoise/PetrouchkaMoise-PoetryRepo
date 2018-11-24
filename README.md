@@ -17,7 +17,7 @@ In my journey of mourning, as a mother and a fellow creative, many people have s
 
 # Process
 
-The first step of this process was to own how personal and difficult this assignment was going to be. Therefore, I had to approach this with the approach of a social scientist trying to explain the "God Principle", delicate and deliberate.  The poem was initially written for all those who would never get a chance to meet Kaiya. In my analysis, I dissected the poem to see if I could identify key phrases and call-to-action statements that I could use through various filters and codes to see if the redirection would give me a new view or approach to the poem.
+The first step of this process was to own how personal and difficult this assignment was going to be. Therefore, I had to approach this with the efficacy of a social scientist trying to explain the "God Principle", delicate and deliberate.  The poem was initially written for all those who would never get a chance to meet Kaiya. In my analysis, I dissected the poem to see if I could identify key phrases and call-to-action statements that I could use through various filters and codes to see if the redirection would give me a new view or approach to the poem.
 
 In the poem “Have you Heard my Special K” there are three players – Kaiya as the source, me as the narrator and the connector, and the audience as the receptor.  Each have actions and reactions of what knowing what Kaiya has created and manifested.
 
@@ -34,7 +34,7 @@ her Maman Moan | She taught me to leave | my inadequacies | I shared her | your 
 her Bae, Boo, or her Boy| She wanted a love that conjugated | my shoestring shackles | I won you | your ...  | you want to borrow
 
 ### Translating the Love
-Though many codes did present intriguing possibilities, the Text-to-Sound format worked the best in capturing the inflections presented in the poem.  The poem unfortunately was too long for the format to recognize the entire text. In order to translate the poem into a format that would be convereted into a soundwave, only a part of a stanza could be selected . The following lines were selected to create the waveform illustrated below. 
+Many lines of code presented intriguing possibilities. However, the Text-to-Sound format worked the best in capturing the inflections presented in the poem.  Unfortunately, the poem was too long for the format to recognize the entire text. In order to translate the poem into a format that would be convereted into a soundwave, only a part of a stanza could be selected . The following lines were selected to create the waveform illustrated below. 
 
 > Have you Ever Loved My Special K,/
 > Whether you thought you were her Bae, Boo, or her Boy /
@@ -48,3 +48,16 @@ Though many codes did present intriguing possibilities, the Text-to-Sound format
 
 ### Poem Sound Sampling to Waveform
 ![Poem Waveform](https://github.com/digital-culture-seminar/PetrouchkaMoise-PoetryRepo/blob/master/special_k_waveform%20clean.png)
+
+### Findings and Next Step Analysis
+There is a fluid reflection of the cadence of the text. The inflections give a very pronounced dynamics to the peaks illustrated. The dimensions of the piece does not present enough of levelled surface to create a place to sit comfortably; therefore, would not be appropriate for a bench design. However if placed as a back feature of a waterfall design.  Then it would better meet the expectations of this project.
+
+The next steps for this project is to process the soundwave into a model form on chipboard panels that will be cut out using a laser cutter. #FingersCrossedNotCut
+
+# Reflections
+
+This project was very interesting because it made me analyze how when text is fragmented and deconstructed how the scope and the goals changes the intent of the reader.  I initially thought that this would give me a different view of who was the source and the receptor in the view that I had of Kaiya.  The process made me more inquisitive of my daughter's writing style and cadence... what was the DNA signature of her style and could my one poem have that same literary signature by my placement and delivery.
+
+In conclusion, this class taught me that by the analysis and physical translation of text that there is an untapped landscape of how we interpret the delivery of feelings, emotions, and understanding.  In relation to my thesis, "Identifying the Identity of the Haitian Artist", there is are essays and literary works used to derive the image of the Haitian culture and the artist.  However, by utilizing the Mallot coding process, large body of works can now be used to analyze and filter key phrases and terms that have been repeated throughout the past 200 years to redefine and change our outlook.
+
+
