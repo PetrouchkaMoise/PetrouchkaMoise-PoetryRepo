@@ -28,6 +28,16 @@ her syncopated rythms | She gave was all for you | my insecurities | I loved | y
 her Maman Moan | She taught me to leave | my inadequacies | I shared her | your ... | (you) wanting to believe
 her Bae, Boo, or her Boy| She wanted a love that conjugated | my shoestring shackles | I won you | your ...  | you want to borrow
 
+### Translating the Love
 
-### Poem Waveform
+Have you Ever Loved My Special K,
+> Whether you thought you were her Bae, Boo, or her Boy
+> Wanting to believe that all she gave was all for you,
+> My Special K bathed you with a smile
+> that made you want to burrow more into her warm chest
+> To drown in her ocean
+
+### Poem Text to Sound Sampling
+
+### Poem Sound Sampling to Waveform
 ![Poem Waveform](https://github.com/digital-culture-seminar/PetrouchkaMoise-PoetryRepo/blob/master/special_k_waveform%20clean.png)
