@@ -14,3 +14,5 @@ In my journey of mourning, as a mother and a fellow creative, many people have s
 
 In the poem “Have you Heard my Special K” there are three players – Kaiya as the source, me as the narrator the connector, and the audience as the receptor.  Each have actions and reactions of what knowing what Kaiya has created and manifested.
 
+### Poem Waveform
+![Poem Waveform](https://github.com/digital-culture-seminar/PetrouchkaMoise-PoetryRepo/blob/master/special_k_waveform%20clean.png)
