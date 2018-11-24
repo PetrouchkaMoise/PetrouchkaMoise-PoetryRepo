@@ -13,9 +13,14 @@ Life is not a one size fits all, and it is hurtful to be called “leftovers”,
 
 In my journey of mourning, as a mother and a fellow creative, many people have shared with me how they have been “Kaiya’d”.  The loss challenged me to keep the words and memory of my daughter relevant to people who would yet to discover her. Now the journey is continued by taking the blueprint of her poetry and cadence to find the jewels that will continue to encourage us to love ourselves and "style from within".
 
+"Have You Heard my Special K" (https://github.com/digital-culture-seminar/PetrouchkaMoise-PoetryRepo/blob/master/Have%20You%20Seen%20My%20Special%20K.txt)
+
+# Process
+
+The first step of this process was to own how personal and difficult this assignment was going to be. Therefore, I had to approach this with the approach of a social scientist trying to explain the "God Principle", delicate and deliberate.  The poem was initially written for all those who would never get a chance to meet Kaiya. In my analysis, I dissected the poem to see if I could identify key phrases and call-to-action statements that I could use through various filters and codes to see if the redirection would give me a new view or approach to the poem.
+
 In the poem “Have you Heard my Special K” there are three players – Kaiya as the source, me as the narrator and the connector, and the audience as the receptor.  Each have actions and reactions of what knowing what Kaiya has created and manifested.
 
-### The Cast & Script Sample
 Source | (S)Action | Connector | (C)Action | Receptor | (R)Action
 ------ | --------- | --------- | --------- | -------- | -----------
 her fist balled up | She came on a Thursday morning  | My Special K | I won her | Your grandma's pancake | you seen
@@ -29,17 +34,17 @@ her Maman Moan | She taught me to leave | my inadequacies | I shared her | your 
 her Bae, Boo, or her Boy| She wanted a love that conjugated | my shoestring shackles | I won you | your ...  | you want to borrow
 
 ### Translating the Love
-In order to translate the poem into a format that would be convereted into a soundwave, only a part of a stanza could be selected . The following lines were selected to create the waveform illustrated below. 
+Though many codes did present intriguing possibilities, the Text-to-Sound format worked the best in capturing the inflections presented in the poem.  The poem unfortunately was too long for the format to recognize the entire text. In order to translate the poem into a format that would be convereted into a soundwave, only a part of a stanza could be selected . The following lines were selected to create the waveform illustrated below. 
 
-> Have you Ever Loved My Special K,
-> Whether you thought you were her Bae, Boo, or her Boy
-> Wanting to believe that all she gave was all for you,
-> My Special K bathed you with a smile
-> that made you want to burrow more into her warm chest
+> Have you Ever Loved My Special K,/
+> Whether you thought you were her Bae, Boo, or her Boy /
+> Wanting to believe that all she gave was all for you, /
+> My Special K bathed you with a smile /
+> that made you want to burrow more into her warm chest /
 > To drown in her ocean
 
 ### Poem Text to Sound Sampling
-![Text to Sound] (https://github.com/digital-culture-seminar/PetrouchkaMoise-PoetryRepo/blob/master/special%20k%20%20verse%20run%202.py)
+(https://github.com/digital-culture-seminar/PetrouchkaMoise-PoetryRepo/blob/master/special%20k%20%20verse%20run%202.py)
 
 ### Poem Sound Sampling to Waveform
 ![Poem Waveform](https://github.com/digital-culture-seminar/PetrouchkaMoise-PoetryRepo/blob/master/special_k_waveform%20clean.png)
