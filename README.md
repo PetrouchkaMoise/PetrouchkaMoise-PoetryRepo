@@ -19,7 +19,7 @@ In my journey of mourning, as a mother and a fellow creative, many people have s
 
 The first step of this process was to own how personal and difficult this assignment was going to be. Therefore, I had to approach this with the efficacy of a social scientist trying to explain the "God Principle", delicate and deliberate.  The poem was initially written for all those who would never get a chance to meet Kaiya. In my analysis, I dissected the poem to see if I could identify key phrases and call-to-action statements that I could use through various filters and codes to see if the redirection would give me a new view or approach to the poem.
 
-In the poem “Have you Heard my Special K” there are three players – Kaiya as the source, me as the narrator and the connector, and the audience as the receptor.  Each have actions and reactions of what knowing what Kaiya has created and manifested.
+In the poem “Have you Heard my Special K” there are three players – Kaiya as the source, me as the narrator and the connector, and the audience as the receptor.  Each have actions and reactions of what knowing Kaiya has created and manifested.
 
 Source | (S)Action | Connector | (C)Action | Receptor | (R)Action
 ------ | --------- | --------- | --------- | -------- | -----------
